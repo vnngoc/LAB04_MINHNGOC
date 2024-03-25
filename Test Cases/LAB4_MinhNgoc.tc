@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LAB4_MinhNgoc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae91961-66d7-4d37-a99c-3a248a8456a4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d83c8a8-f7d5-4cc9-988c-d6b44fd5fd22</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75a66686-b489-44c9-84c9-ea14b9660e40</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03e68e8b-3152-43a6-8df1-752d24bbadab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d83c8a8-f7d5-4cc9-988c-d6b44fd5fd22</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75a66686-b489-44c9-84c9-ea14b9660e40</id>
+      <masked>false</masked>
+      <name>Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03e68e8b-3152-43a6-8df1-752d24bbadab</id>
+      <masked>false</masked>
+      <name>Alert</name>
+   </variable>
+</TestCaseEntity>

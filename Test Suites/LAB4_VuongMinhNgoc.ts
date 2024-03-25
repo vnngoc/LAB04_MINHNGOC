@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LAB4_VuongMinhNgoc</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b90053b4-c766-4617-92fa-84cee4cd9a1f</testSuiteGuid>
+   <testCaseLink>
+      <guid>b3dfb545-9e74-4e72-bfaa-a0a1d5cda33a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LAB4_MinhNgoc</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ac1ca286-8233-4b1b-a0a7-8023cac71ed0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ac1ca286-8233-4b1b-a0a7-8023cac71ed0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>4d83c8a8-f7d5-4cc9-988c-d6b44fd5fd22</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac1ca286-8233-4b1b-a0a7-8023cac71ed0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pass</value>
+         <variableId>75a66686-b489-44c9-84c9-ea14b9660e40</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac1ca286-8233-4b1b-a0a7-8023cac71ed0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Alert</value>
+         <variableId>03e68e8b-3152-43a6-8df1-752d24bbadab</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
